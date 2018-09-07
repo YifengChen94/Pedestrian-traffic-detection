@@ -42,7 +42,7 @@ Tips, for Tiny YOLOv3, just follow the similar command and specify model path an
 
 2.Default anchors are used. If you use your own anchors, probably some changes are needed.
 
-3.For detecting pedestrain, you can change the threshold value in order to fit your practical application. Spectific information is listed below:
+3.For detecting pedestrain, you can modify the threshold value in order to fit your practical application. Spectific information is listed below:
 ```python
   self.threshold = 3    # detecting whether person in
   self.out_boxes = out_boxes
