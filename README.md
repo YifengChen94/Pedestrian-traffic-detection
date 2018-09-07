@@ -4,7 +4,7 @@ This is a applicaiton for detection pedestrian traffic based on YOLOv3 framework
 The repository is based on the python tensorflow/keras implementation of yolo avaiable [here](https://pjreddie.com/darknet/yolo/).
 The final detecting result is shown below:
 
-<img src="https://github.com/YifengChen94/Pedestrian-traffic-detection/blob/master/test.gif" width="550" height="400" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/YifengChen94/Pedestrian-traffic-detection/blob/master/test.gif" width="550" height="400" alt="test.gif"/>
 
 ## Quick start
 Specially, the project is based on tensorflow/keras. If you haven't install tensorflow/keras, you should follow the installation of [Tensorflow](https://github.com/tensorflow/tensorflow). 
